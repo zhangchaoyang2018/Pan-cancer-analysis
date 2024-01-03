@@ -6,6 +6,6 @@ Contact
 Please contact us:
 chaoyang.zhang@helmholtz-munich.de
 axelkarl.walch@helmholtz-munich.de
-Copyright
 
+Copyright
 ©2024 Walch Lab. All rights reserved.
